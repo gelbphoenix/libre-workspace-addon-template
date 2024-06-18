@@ -18,6 +18,7 @@ testaddon/
   - setup_testaddon.sh
   - update_testaddon.sh
   - remove_testaddon.sh
+  - update_env.sh
 ```
 
 Now you can edit the script files and the config file. Make also sure to add an picture in either png/svg/jpg or webp format and a LICENSE if you want to distribute your addon. (The Apache 2.0 licence is recommended <https://www.apache.org/licenses/LICENSE-2.0.html#apply>)
@@ -32,6 +33,7 @@ testaddon/
   - setup_testaddon.sh
   - update_testaddon.sh
   - remove_testaddon.sh
+  - update_env.sh
   - testaddon.webp
   - LICENCE
 ```
